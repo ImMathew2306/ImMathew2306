@@ -1,0 +1,14 @@
+C:\Users\Lauta Costa\Desktop\Obligatorio Diciembre ASP\Web Periodico\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Lauta Costa\Desktop\Obligatorio Diciembre ASP\Web Periodico\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Lauta Costa\Desktop\Obligatorio Diciembre ASP\Web Periodico\EntidadesCompartidas\bin\Debug\Logica.dll
+C:\Users\Lauta Costa\Desktop\Obligatorio Diciembre ASP\Web Periodico\EntidadesCompartidas\bin\Debug\Persistencia.dll
+C:\Users\Lauta Costa\Desktop\Obligatorio Diciembre ASP\Web Periodico\EntidadesCompartidas\bin\Debug\Logica.pdb
+C:\Users\Lauta Costa\Desktop\Obligatorio Diciembre ASP\Web Periodico\EntidadesCompartidas\bin\Debug\Persistencia.pdb
+C:\Users\Lauta Costa\Desktop\Obligatorio Diciembre ASP\Web Periodico\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojResolveAssemblyReference.cache
+C:\Users\Lauta Costa\Desktop\Obligatorio Diciembre ASP\Web Periodico\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Lauta Costa\Desktop\Obligatorio Diciembre ASP\Web Periodico\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\lawea\Desktop\Obligatorio Diciembre ASP\Obligatorio Diciembre ASP\Web Periodico\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\lawea\Desktop\Obligatorio Diciembre ASP\Obligatorio Diciembre ASP\Web Periodico\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\lawea\Desktop\Obligatorio Diciembre ASP\Obligatorio Diciembre ASP\Web Periodico\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojResolveAssemblyReference.cache
+C:\Users\lawea\Desktop\Obligatorio Diciembre ASP\Obligatorio Diciembre ASP\Web Periodico\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\lawea\Desktop\Obligatorio Diciembre ASP\Obligatorio Diciembre ASP\Web Periodico\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb

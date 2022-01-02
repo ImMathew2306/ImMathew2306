@@ -1,0 +1,25 @@
+C:\Users\Lauta Costa\Desktop\Obligatorio Diciembre ASP\Web Periodico\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Lauta Costa\Desktop\Obligatorio Diciembre ASP\Web Periodico\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Lauta Costa\Desktop\Obligatorio Diciembre ASP\Web Periodico\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Lauta Costa\Desktop\Obligatorio Diciembre ASP\Web Periodico\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Lauta Costa\Desktop\Obligatorio Diciembre ASP\Obligatorio Diciembre ASP\Web Periodico\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Lauta Costa\Desktop\Obligatorio Diciembre ASP\Obligatorio Diciembre ASP\Web Periodico\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Lauta Costa\Desktop\Obligatorio Diciembre ASP\Obligatorio Diciembre ASP\Web Periodico\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Lauta Costa\Desktop\Obligatorio Diciembre ASP\Obligatorio Diciembre ASP\Web Periodico\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Lauta Costa\Desktop\Obligatorio Diciembre ASP\Obligatorio Diciembre ASP\Web Periodico\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Lauta Costa\Desktop\Obligatorio Diciembre ASP\Obligatorio Diciembre ASP\Web Periodico\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Lauta Costa\Desktop\Obligatorio Diciembre ASP\Obligatorio Diciembre ASP\Web Periodico\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\lawea\Desktop\Obligatorio Diciembre ASP\Web Periodico\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\lawea\Desktop\Obligatorio Diciembre ASP\Web Periodico\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\lawea\Desktop\Obligatorio Diciembre ASP\Web Periodico\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\lawea\Desktop\Obligatorio Diciembre ASP\Web Periodico\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\lawea\Desktop\Obligatorio Diciembre ASP\Web Periodico\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\lawea\Desktop\Obligatorio Diciembre ASP\Web Periodico\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\lawea\Desktop\Obligatorio Diciembre ASP\Web Periodico\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\lawea\Desktop\Obligatorio Diciembre ASP\Obligatorio Diciembre ASP\Web Periodico\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\lawea\Desktop\Obligatorio Diciembre ASP\Obligatorio Diciembre ASP\Web Periodico\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\lawea\Desktop\Obligatorio Diciembre ASP\Obligatorio Diciembre ASP\Web Periodico\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\lawea\Desktop\Obligatorio Diciembre ASP\Obligatorio Diciembre ASP\Web Periodico\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\lawea\Desktop\Obligatorio Diciembre ASP\Obligatorio Diciembre ASP\Web Periodico\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\lawea\Desktop\Obligatorio Diciembre ASP\Obligatorio Diciembre ASP\Web Periodico\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\lawea\Desktop\Obligatorio Diciembre ASP\Obligatorio Diciembre ASP\Web Periodico\Persistencia\obj\Debug\Persistencia.pdb
