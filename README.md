@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ImMathew2306
 - 👀 I’m interested in ... get a job as junior developer
-- 🌱 I’m currently learning ... sql
+- 🌱 I’m currently learning ... CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
